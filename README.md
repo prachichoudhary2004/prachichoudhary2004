@@ -6,8 +6,7 @@ A **Front-End Developer**, **Data Science Enthusiast**, and passionate about exp
 ---
 
 ## About Me  
-📚 Currently mastering **Artificial Intelligence**, **Machine Learning**, and **Data Science** to build smarter systems.  
-🎯 Excited to collaborate on projects blending **web development** with the power of **data analytics**.  
+📚 Currently mastering **Artificial Intelligence**, **Machine Learning** to build smarter systems.  
 ✨ Always curious about emerging technologies and eager to learn new tools to expand my skillset.  
 ✈️ Outside coding, I enjoy traveling, exploring diverse cultures, and creating unforgettable memories. 🌍  
 💡 Fun Fact: I believe that "Every bug is an opportunity to learn and grow!"  
