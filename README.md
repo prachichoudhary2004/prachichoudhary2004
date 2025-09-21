@@ -37,6 +37,9 @@ A **Software Developer**, **Data Science Enthusiast**, and passionate about expl
   <a href="mailto:prachichoudhary.0504@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+   <a href="https://prachichoudhary2004.github.io/Portfolio-Website/">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="website" />
+  </a>
 </p>  
 
 ---
