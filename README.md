@@ -1,7 +1,7 @@
 # Hey 👋 What's up?  
 
 I'm Prachi Choudhary, a Computer Science undergrad at Dayananda Sagar College of Engineering, Bangalore (India).  
-A **Front-End Developer**, **Data Science Enthusiast**, and passionate about exploring **AI/ML** to create innovative solutions. 🚀  
+A **Software Developer**, **Data Science Enthusiast**, and passionate about exploring **AI/ML** to create innovative solutions. 🚀  
 
 ---
 
