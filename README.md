@@ -4,16 +4,12 @@
 
 <p>
 🎓 Information Science Undergraduate @ DSCE <br/>
-💻 <b>Aspiring AI/ML Developer</b> <br/>
+💻 <b>Aspiring AI Developer | ML Enthusiast</b> <br/>
 🚀 Building intelligent systems, scalable applications, and data-driven solutions  
 </p>
 
 <p>
 💡 <i>I turn ideas into code — and bugs into learning experiences (sometimes both at once 😄)</i>  
-</p>
-
-<p>
-🚀 <b>Interests:</b> Artificial Intelligence • Machine Learning • Data Science & Analysis  
 </p>
 
 </p>
@@ -22,11 +18,10 @@
 
 ## 🧠 About Me
 
-I’m an aspiring <b>AI Developer</b> with strong foundations in <b>Data Structures, Algorithms, and core Computer Science concepts</b>.
-
-I enjoy building <b>AI-powered applications and data-driven systems</b>, combining machine learning with practical problem-solving.
-
-My work focuses on solving <b>real-world problems using data and intelligent models</b>, with an emphasis on clean logic, efficiency, and meaningful impact.
+I’m currently exploring and strengthening my skills in **Artificial Intelligence and Machine Learning**, with a solid foundation in **Data Structures and core Computer Science concepts**.<br/>
+I focus on developing **AI-powered applications and data-driven systems**, applying machine learning to solve real-world problems with clean and efficient design.<br/>
+Through my work, I’ve explored **intelligent systems, ML models, and real-world applications**, combining practical implementation with meaningful impact.<br/>
+I’m continuously learning and exploring how to use **AI and data** to build scalable and impactful solutions.
 
 ---
 
@@ -34,14 +29,26 @@ My work focuses on solving <b>real-world problems using data and intelligent mod
 
 <p align="center">
 
+<!-- Core -->
+
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" />
+
+<!-- AI / ML -->
+
+<img src="https://img.shields.io/badge/-Machine%20Learning-102230" />
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" />
+
+<!-- Supporting -->
+
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+
+<!-- Tools -->
+
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
 
@@ -55,10 +62,10 @@ My work focuses on solving <b>real-world problems using data and intelligent mod
   Built a decentralized loyalty platform with wallet authentication, real ETH transactions, and gamified features (XP, badges, leaderboards).
 
 * 🔹 <b>SoulZen – AI Mental Health Platform</b>
-  Developed an AI-powered full-stack platform with chatbot, mood tracking, journaling, and secure authentication.
+  Developed an AI-powered platform with chatbot, mood tracking, journaling, and secure authentication.
 
-* 🔹 <b>Tribal Trek – Smart Tourism Platform</b>
-  Built a scalable tourism platform with AI-based personalization, multilingual support, and data-driven insights.
+* 🔹 <b>Traffic Police Management System</b>
+  Developed a web application to manage traffic violations, issue fines, track payments, and maintain digital records for improved road safety and efficiency.
 
 * 🔹 <b>Metro Navigator</b>
   Designed an optimized metro route planning system using graph-based algorithms with an interactive interface.
@@ -77,7 +84,8 @@ My work focuses on solving <b>real-world problems using data and intelligent mod
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachichoudhary2004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachichoudhary2004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=prachichoudhary2004&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
