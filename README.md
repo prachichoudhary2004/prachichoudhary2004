@@ -58,23 +58,19 @@ I’m continuously learning and exploring how to use **AI and data** to build sc
 
 ## 🚀 Highlights
 
-* 🔹 <b>FraudShield AI – Real-Time Risk Engine</b>  
+* <b>FraudShield AI – Real-Time Risk Engine</b>  
   Built an end-to-end fraud detection system using Logistic Regression + SMOTE, achieving <b>89.8% recall & 0.977 ROC-AUC</b>.  
   Designed Flask APIs for real-time transaction scoring, anomaly detection, and risk-based recommendations.
-
-* 🔹 <b>Intelligent Metro Route Optimization System</b>  
+* <b>Intelligent Metro Route Optimization System</b>  
   Developed a graph-based routing engine using <b>Dijkstra & A*</b> with ML-based congestion prediction.  
   Implemented route caching and performance benchmarking for optimized path computation.
-
-* 🔹 <b>TelcoRewards – Web3 Loyalty dApp</b>  
+* <b>TelcoRewards – Web3 Loyalty dApp</b>  
   Built a decentralized platform using <b>Solidity & Web3.js</b> with wallet authentication and smart contract reward system.  
   Added gamification (XP, badges, leaderboards) to enhance user engagement.
-
-* 🔹 <b>SoulZen – AI Mental Health Platform</b>  
+* <b>SoulZen – AI Mental Health Platform</b>  
   Developed a full-stack platform with <b>AI chatbot, mood tracking, and journaling</b>.  
   Designed secure REST APIs with JWT authentication and scalable backend architecture.
-
-* 🔹 <b>Personalized Fitness Tracker (MATLAB)</b>  
+* <b>Personalized Fitness Tracker (MATLAB)</b>  
   Developed a smart fitness system with <b>ML-based mood detection (81% accuracy)</b> and adaptive workout recommendations.
 ---
 
