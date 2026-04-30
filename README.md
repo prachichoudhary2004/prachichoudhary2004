@@ -58,18 +58,24 @@ I’m continuously learning and exploring how to use **AI and data** to build sc
 
 ## 🚀 Highlights
 
-* 🔹 <b>TelcoRewards – Web3 Loyalty dApp</b>
-  Built a decentralized loyalty platform with wallet authentication, real ETH transactions, and gamified features (XP, badges, leaderboards).<br/>
-* 🔹 <b>SoulZen – AI Mental Health Platform</b>
-  Developed an AI-powered platform with chatbot, mood tracking, journaling, and secure authentication.<br/>
-* 🔹 <b>Traffic Police Management System</b>
-  Developed a web application to manage traffic violations, issue fines, track payments, and maintain digital records for improved road safety and efficiency.<br/>
-* 🔹 <b>Metro Navigator</b>
-  Designed an optimized metro route planning system using graph-based algorithms with an interactive interface.<br/>
-* 🔹 <b>Personalized Fitness Tracker (MATLAB Project)</b>
-  Built a smart fitness system with calorie tracking, ML-based mood detection, and adaptive workout recommendations.<br/>
-* 🔹 Built Machine Learning models using real-world datasets (EDA → training → evaluation pipelines)
+* 🔹 <b>FraudShield AI – Real-Time Risk Engine</b>  
+  Built an end-to-end fraud detection system using Logistic Regression + SMOTE, achieving <b>89.8% recall & 0.977 ROC-AUC</b>.  
+  Designed Flask APIs for real-time transaction scoring, anomaly detection, and risk-based recommendations.
 
+* 🔹 <b>Intelligent Metro Route Optimization System</b>  
+  Developed a graph-based routing engine using <b>Dijkstra & A*</b> with ML-based congestion prediction.  
+  Implemented route caching and performance benchmarking for optimized path computation.
+
+* 🔹 <b>TelcoRewards – Web3 Loyalty dApp</b>  
+  Built a decentralized platform using <b>Solidity & Web3.js</b> with wallet authentication and smart contract reward system.  
+  Added gamification (XP, badges, leaderboards) to enhance user engagement.
+
+* 🔹 <b>SoulZen – AI Mental Health Platform</b>  
+  Developed a full-stack platform with <b>AI chatbot, mood tracking, and journaling</b>.  
+  Designed secure REST APIs with JWT authentication and scalable backend architecture.
+
+* 🔹 <b>Personalized Fitness Tracker (MATLAB)</b>  
+  Developed a smart fitness system with <b>ML-based mood detection (81% accuracy)</b> and adaptive workout recommendations.
 ---
 
 ## 📊 GitHub Stats
