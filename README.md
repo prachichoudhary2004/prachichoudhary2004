@@ -105,9 +105,6 @@ I’m continuously learning and exploring how to use **AI and data** to build sc
   <a href="mailto:prachichoudhary.0504@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://prachichoudhary2004.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 ---
