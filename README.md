@@ -4,7 +4,7 @@
 
 <p>
 🎓 Information Science Undergraduate @ DSCE <br/>
-💻 <b>Aspiring AI Developer | ML Enthusiast</b> <br/>
+💻 <b> Aspiring AI Developer | Building AI & Data-Driven Solutions | Analytics | Data Engineering </b> <br/>
 🚀 Building intelligent systems, scalable applications, and data-driven solutions  
 </p>
 
