@@ -62,9 +62,9 @@ I’m continuously learning and exploring how to use **AI and data** to build sc
 * <b>EV Market Intelligence & Forecasting Platform</b>  
   Built an EV analytics platform using <b>PySpark, dbt, and Medallion Lakehouse Architecture</b> for scalable data processing and KPI generation.  
   Developed forecasting pipelines with <b>Prophet</b> and designed <b>FastAPI</b>-based endpoints for real-time analytics access.
-* <b>F1 Championship Analytics </b>  
-  Built an analytics platform using <b>Apache Spark, Delta Lake, and Power BI</b> with Medallion Architecture for large-scale F1 data processing.  
-  Implemented <b>ML-powered race predictions, ETL pipelines, and interactive analytics dashboards</b>.
+* <b>Global Financial Market Intelligence Platform</b>  
+  Built an end-to-end institutional financial analytics platform using <b>PySpark, Streamlit, FastAPI, and Medallion Lakehouse Architecture</b> for scalable market intelligence and quantitative analysis.  
+  Developed <b>AI forecasting pipelines with Prophet & XGBoost</b>, portfolio optimization using <b>Markowitz Efficient Frontier & Monte Carlo simulations</b>, and interactive Bloomberg-inspired analytics dashboards.
 * <b>FraudShield AI – Real-Time Risk Engine</b>  
   Built an end-to-end fraud detection system using <b>Logistic Regression + SMOTE</b>, achieving <b>89.8% recall & 0.977 ROC-AUC</b>.  
   Designed <b>Flask APIs</b> for real-time transaction scoring, anomaly detection, and risk-based recommendations.
