@@ -57,33 +57,20 @@ I’m continuously learning and exploring how to use **AI and data** to build sc
 
 ---
 
-## 🚀 Highlights
+### 🏆 Highlights
 
-* <b>EV Market Intelligence & Forecasting Platform</b>  
-  Built an EV analytics platform using <b>PySpark, dbt, and Medallion Lakehouse Architecture</b> for scalable data processing and KPI generation.  
-  Developed forecasting pipelines with <b>Prophet</b> and designed <b>FastAPI</b>-based endpoints for real-time analytics access.
-* <b>Global Financial Market Intelligence Platform</b>  
-  Built an end-to-end institutional financial analytics platform using <b>PySpark, Streamlit, FastAPI, and Medallion Lakehouse Architecture</b> for scalable market intelligence and quantitative analysis.  
-  Developed <b>AI forecasting pipelines with Prophet & XGBoost</b>, portfolio optimization using <b>Markowitz Efficient Frontier & Monte Carlo simulations</b>, and interactive Bloomberg-inspired analytics dashboards.
-* <b>FraudShield AI – Real-Time Risk Engine</b>  
-  Built an end-to-end fraud detection system using <b>Logistic Regression + SMOTE</b>, achieving <b>89.8% recall & 0.977 ROC-AUC</b>.  
-  Designed <b>Flask APIs</b> for real-time transaction scoring, anomaly detection, and risk-based recommendations.
-* <b>Intelligent Metro Route Optimization System</b>  
-  Developed a graph-based routing engine using <b>Dijkstra & A*</b> with <b>ML-based congestion prediction</b>.  
-  Implemented route caching and performance benchmarking for optimized path computation
-* <b>Personalized Fitness Tracker (MATLAB)</b>  
-  Developed a smart fitness system with <b>ML-based mood detection (81% accuracy)</b> and adaptive workout recommendations.  
-  Implemented real-time calorie analysis and personalized fitness tracking workflows.
+* Developed a **Fear & Greed Sentiment Intelligence Engine** using **Python, NLP, FastAPI, and Machine Learning**, aggregating financial news and social media data to generate real-time trading signals and market sentiment insights.
+* Built an **institutional financial analytics platform** using **PySpark, Streamlit, FastAPI, and Medallion Lakehouse Architecture** for scalable market intelligence, quantitative analysis, and large-scale data processing.
+* Developed **AI forecasting and portfolio optimization pipelines** using **Prophet, XGBoost, Markowitz Efficient Frontier, and Monte Carlo Simulations**, complemented by **Bloomberg-inspired analytics dashboards**.
+* Engineered a **real-time fraud detection system** using **Logistic Regression, SMOTE, Flask APIs, and Scikit-learn**, achieving **89.8% recall** and **0.977 ROC-AUC** for transaction risk assessment and anomaly detection.
+* Built a **graph-based route optimization engine** using **Dijkstra, A*, and Machine Learning**, integrating congestion prediction, route caching, and performance benchmarking for efficient path computation.
+
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachichoudhary2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachichoudhary2004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=prachichoudhary2004&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
